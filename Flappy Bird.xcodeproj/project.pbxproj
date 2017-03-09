@@ -15,6 +15,11 @@
 		AF8DD9D81E6868A3008A12A4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF8DD9D61E6868A3008A12A4 /* Main.storyboard */; };
 		AF8DD9DA1E6868A3008A12A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF8DD9D91E6868A3008A12A4 /* Assets.xcassets */; };
 		AF8DD9DD1E6868A3008A12A4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF8DD9DB1E6868A3008A12A4 /* LaunchScreen.storyboard */; };
+		AF8DD9E91E686A2A008A12A4 /* pipe2.png in Resources */ = {isa = PBXBuildFile; fileRef = AF8DD9E41E686A2A008A12A4 /* pipe2.png */; };
+		AF8DD9EA1E686A2A008A12A4 /* flappy2.png in Resources */ = {isa = PBXBuildFile; fileRef = AF8DD9E51E686A2A008A12A4 /* flappy2.png */; };
+		AF8DD9EB1E686A2A008A12A4 /* flappy1.png in Resources */ = {isa = PBXBuildFile; fileRef = AF8DD9E61E686A2A008A12A4 /* flappy1.png */; };
+		AF8DD9EC1E686A2A008A12A4 /* bg.png in Resources */ = {isa = PBXBuildFile; fileRef = AF8DD9E71E686A2A008A12A4 /* bg.png */; };
+		AF8DD9ED1E686A2A008A12A4 /* pipe1.png in Resources */ = {isa = PBXBuildFile; fileRef = AF8DD9E81E686A2A008A12A4 /* pipe1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +33,11 @@
 		AF8DD9D91E6868A3008A12A4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AF8DD9DC1E6868A3008A12A4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AF8DD9DE1E6868A3008A12A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AF8DD9E41E686A2A008A12A4 /* pipe2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pipe2.png; path = ../../../Downloads/img/pipe2.png; sourceTree = "<group>"; };
+		AF8DD9E51E686A2A008A12A4 /* flappy2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = flappy2.png; path = ../../../Downloads/img/flappy2.png; sourceTree = "<group>"; };
+		AF8DD9E61E686A2A008A12A4 /* flappy1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = flappy1.png; path = ../../../Downloads/img/flappy1.png; sourceTree = "<group>"; };
+		AF8DD9E71E686A2A008A12A4 /* bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bg.png; path = ../../../Downloads/img/bg.png; sourceTree = "<group>"; };
+		AF8DD9E81E686A2A008A12A4 /* pipe1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pipe1.png; path = ../../../Downloads/img/pipe1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +76,11 @@
 				AF8DD9D21E6868A3008A12A4 /* GameScene.swift */,
 				AF8DD9D41E6868A3008A12A4 /* GameViewController.swift */,
 				AF8DD9D61E6868A3008A12A4 /* Main.storyboard */,
+				AF8DD9E41E686A2A008A12A4 /* pipe2.png */,
+				AF8DD9E51E686A2A008A12A4 /* flappy2.png */,
+				AF8DD9E61E686A2A008A12A4 /* flappy1.png */,
+				AF8DD9E71E686A2A008A12A4 /* bg.png */,
+				AF8DD9E81E686A2A008A12A4 /* pipe1.png */,
 				AF8DD9D91E6868A3008A12A4 /* Assets.xcassets */,
 				AF8DD9DB1E6868A3008A12A4 /* LaunchScreen.storyboard */,
 				AF8DD9DE1E6868A3008A12A4 /* Info.plist */,
@@ -132,8 +147,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AF8DD9EA1E686A2A008A12A4 /* flappy2.png in Resources */,
+				AF8DD9ED1E686A2A008A12A4 /* pipe1.png in Resources */,
 				AF8DD9D81E6868A3008A12A4 /* Main.storyboard in Resources */,
+				AF8DD9EC1E686A2A008A12A4 /* bg.png in Resources */,
 				AF8DD9CF1E6868A3008A12A4 /* GameScene.sks in Resources */,
+				AF8DD9EB1E686A2A008A12A4 /* flappy1.png in Resources */,
+				AF8DD9E91E686A2A008A12A4 /* pipe2.png in Resources */,
 				AF8DD9DA1E6868A3008A12A4 /* Assets.xcassets in Resources */,
 				AF8DD9DD1E6868A3008A12A4 /* LaunchScreen.storyboard in Resources */,
 				AF8DD9D11E6868A3008A12A4 /* Actions.sks in Resources */,
